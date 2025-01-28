@@ -1,11 +1,11 @@
-# Faithy - Cloud Hosting For Everyone
+# RayBank Landing Page
 ---
 ## Overview
 _This our the first project for Web3Bridges' Web2ACXII, it is a Bank Landing Page._
 
 # Bank Landing Page  
 
-This page is responsive across mobile, taps and PCs. It includes HTML and CSS styling, as well as some JavaScript.
+This page is responsive across mobile, tablets and PCs. It includes HTML and CSS styling, as well as some JavaScript.
 
 ## Project Structure
 
@@ -25,6 +25,7 @@ This page is responsive across mobile, taps and PCs. It includes HTML and CSS st
 
   - HTML5
   - CSS3
+  - Javascript
   - Google Font
  
     ## Setup/Installation
@@ -33,7 +34,7 @@ This page is responsive across mobile, taps and PCs. It includes HTML and CSS st
 
     ## Known Issues  
 
-- While the layout is very responsive, the hamburger menu for mobile navigation is not functional yet. This feature will be added after the current assignments are validated.  
+- While the layout is very responsive, the hamburger menu for mobile navigation is not functional yet. This feature will be added after this submission is validated.  
 
     ## Future Enhancements  
 
@@ -47,5 +48,5 @@ This page is responsive across mobile, taps and PCs. It includes HTML and CSS st
     - Youtubeversity
 
 
-    N.B: his project was created as part of a learning process. All feedback and suggestions are welcome!  
+    N.B: This project was created as part of a learning process. All feedback and suggestions are welcome!  
 
